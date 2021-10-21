@@ -459,6 +459,7 @@ RUN \
         --enable-libopenjpeg \
         --enable-libkvazaar \
         --enable-libaom \
+        --enable-nvmpi \        
         --extra-libs=-lpthread \
         # --enable-omx \
         # --enable-omx-rpi \
