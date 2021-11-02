@@ -97,7 +97,7 @@ RUN \
        DIR=/tmp/jetson-ffmpeg && \
        mkdir -p ${DIR} && \
        cd ${DIR} && \
-       git clone https://github.com/jocover/jetson-ffmpeg.git && \
+       git clone https://github.com/jamitupya/jetson-ffmpeg.git && \
        cd jetson-ffmpeg && \
        mkdir build && \
        cd build && \
